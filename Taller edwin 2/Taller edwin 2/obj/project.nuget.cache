@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "B7Bs4C7UMae0Go4SDPWPDaabZ+gWxFX526LR+w/JdJufOO7rlUXFLKkTOxxWU42i0AUU76Gl26k3MusJ+2OxZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adsi\\Downloads\\Taller edwin 2\\Taller edwin 2\\Taller edwin 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adsi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\adsi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\adsi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\adsi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

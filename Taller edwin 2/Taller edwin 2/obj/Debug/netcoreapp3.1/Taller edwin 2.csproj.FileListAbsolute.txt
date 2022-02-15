@@ -1,0 +1,14 @@
+C:\Users\adsi\Downloads\Taller edwin 2\Taller edwin 2\bin\Debug\netcoreapp3.1\Taller edwin 2.exe
+C:\Users\adsi\Downloads\Taller edwin 2\Taller edwin 2\bin\Debug\netcoreapp3.1\Taller edwin 2.deps.json
+C:\Users\adsi\Downloads\Taller edwin 2\Taller edwin 2\bin\Debug\netcoreapp3.1\Taller edwin 2.runtimeconfig.json
+C:\Users\adsi\Downloads\Taller edwin 2\Taller edwin 2\bin\Debug\netcoreapp3.1\Taller edwin 2.runtimeconfig.dev.json
+C:\Users\adsi\Downloads\Taller edwin 2\Taller edwin 2\bin\Debug\netcoreapp3.1\Taller edwin 2.dll
+C:\Users\adsi\Downloads\Taller edwin 2\Taller edwin 2\bin\Debug\netcoreapp3.1\Taller edwin 2.pdb
+C:\Users\adsi\Downloads\Taller edwin 2\Taller edwin 2\obj\Debug\netcoreapp3.1\Taller edwin 2.csproj.AssemblyReference.cache
+C:\Users\adsi\Downloads\Taller edwin 2\Taller edwin 2\obj\Debug\netcoreapp3.1\Taller edwin 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adsi\Downloads\Taller edwin 2\Taller edwin 2\obj\Debug\netcoreapp3.1\Taller edwin 2.AssemblyInfoInputs.cache
+C:\Users\adsi\Downloads\Taller edwin 2\Taller edwin 2\obj\Debug\netcoreapp3.1\Taller edwin 2.AssemblyInfo.cs
+C:\Users\adsi\Downloads\Taller edwin 2\Taller edwin 2\obj\Debug\netcoreapp3.1\Taller edwin 2.csproj.CoreCompileInputs.cache
+C:\Users\adsi\Downloads\Taller edwin 2\Taller edwin 2\obj\Debug\netcoreapp3.1\Taller edwin 2.dll
+C:\Users\adsi\Downloads\Taller edwin 2\Taller edwin 2\obj\Debug\netcoreapp3.1\Taller edwin 2.pdb
+C:\Users\adsi\Downloads\Taller edwin 2\Taller edwin 2\obj\Debug\netcoreapp3.1\Taller edwin 2.genruntimeconfig.cache
